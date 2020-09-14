@@ -2,6 +2,8 @@
 # Executive Summary
 Summarize this assignment and the goal of this lab
 
+The goal f this lab is to understand Hardware, Binary, and Hexadecimal
+
 # Hardware
 ## Hard Drives and Memory
 * What is the difference between latency and transfer rates in the performance of a hard drive?
@@ -25,3 +27,5 @@ Summarize this assignment and the goal of this lab
 
 # Conclusion
 Reflect on what you have learnt from this week
+
+Basically what I did in this assigment was learned different hardware formats and learned about Binary and Hexadecimal.
